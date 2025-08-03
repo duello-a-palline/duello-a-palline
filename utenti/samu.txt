@@ -1,0 +1,8 @@
+password: 12345
+vittorie_mensili: 0
+vittorie_totali: 0
+punti_mensili: 0
+punti_totali: 0
+in_matchmaking: False
+x: 0
+y: 0
