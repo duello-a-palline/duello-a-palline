@@ -3,4 +3,4 @@ vittorie_mensili: 0
 vittorie_totali: 0
 punti_mensili: 0
 punti_totali: 0
-in_matchmaking: False
+in_matchmaking: True
