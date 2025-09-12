@@ -7,3 +7,5 @@ punti_ranked_mensili: 0
 punti_ranked_totali: 0
 data_iscrizione: 2025-08-12
 in_matchmaking: True
+ip: 93.44.192.87
+porta_udp: 5005
