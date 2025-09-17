@@ -1,9 +1,0 @@
-password: ciao
-vittorie_mensili: 0
-vittorie_totali: 0
-punti_mensili: 0
-punti_totali: 0
-punti_ranked_mensili: 0
-punti_ranked_storici: 0
-data_iscrizione: 2025-09-17 21:37:46
-in_matchmaking: False
