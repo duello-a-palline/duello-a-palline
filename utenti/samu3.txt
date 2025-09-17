@@ -6,4 +6,4 @@ punti_totali: 0
 punti_ranked_mensili: 0
 punti_ranked_storici: 0
 data_iscrizione: 2025-09-17 21:32:33
-in_matchmaking: False
+in_matchmaking: True
